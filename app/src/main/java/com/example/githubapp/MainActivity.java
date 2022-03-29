@@ -12,4 +12,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //aaa
     }
+
+    private void a() {
+        //sobhan
+    }
 }
